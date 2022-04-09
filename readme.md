@@ -55,13 +55,13 @@ Mid price for ETHUSD is 373.555 USD.
 # Run the Problem 4: Interacting with Chain
 # Prepare the BSC_RPC_URL by folowing the guide at: https://docs.moralis.io/speedy-nodes/connecting-to-rpc-nodes/connect-to-bsc-node
 # Export the RPC URL from the previous step as environment variable
-export BSC_RPC_URL=https://speedy-nodes-nyc.moralis.io/1a2b3c4d5e6f1a2b3c4d5e6f/bsc/mainnet
+export BSC_RPC_URL=https://...
 
 # Example output
 make problem4
 
 Interacting with Chain
-BSC_RPC_URL: https://speedy-nodes-nyc.moralis.io/1a2b3c4d5e6f1a2b3c4d5e6f/bsc/mainnet
+BSC_RPC_URL: https://...
 Contract Address: 0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c
 0xfe808b079187cc460f47374580f5fb47c82b87a5 0.0
 0x123d475e13aa54a43a7421d94caa4459da021c77 424964.17132654
