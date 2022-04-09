@@ -52,11 +52,12 @@ Mid price for ETHUSD is 373.555 USD.
 
 # Note: prices.json is provided in the repository. And the content is the same as https://static.ngnrs.io/test/prices
 
-# Run the Problem 4: Interacting with Chain (Please take a look at the Note below)
-# Prepare the RPC_URL at: https://docs.moralis.io/speedy-nodes/connecting-to-rpc-nodes/connect-to-bsc-node
-
-# Export the BSC_RPC_URL as environment variable
+# Run the Problem 4: Interacting with Chain
+# Prepare the BSC_RPC_URL by folowing the guide at: https://docs.moralis.io/speedy-nodes/connecting-to-rpc-nodes/connect-to-bsc-node
+# Export the RPC URL from the previous step as environment variable
 export BSC_RPC_URL=https://speedy-nodes-nyc.moralis.io/1a2b3c4d5e6f1a2b3c4d5e6f/bsc/mainnet
+
+# Example output
 make problem4
 
 Interacting with Chain
