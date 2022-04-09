@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This repository is about exploring Vanilla Javascript, Typescript and Blockchain.
+This repository is about exploring Vanilla Javascript and Blockchain with Typescript.
 
 ## Requirements
 
-Docker needs to be available.
+[Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04) needs to be available.
 
 ```bash
 ❯ docker --version
